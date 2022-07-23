@@ -1,0 +1,6 @@
+fairseq==0.10.2
+fastBPE==0.1.0
+nlpaug==1.1.4
+sentence-transformers==0.4.1.2
+sentencepiece==0.1.95
+torch==1.6.0
